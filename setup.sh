@@ -1,1 +1,1 @@
-echo "alias ignorer=\"${PWD}/ignorer.sh\"" >> ~/.bashrc
+echo "alias ignorer=\"bash ${PWD}/ignorer.sh\"" >> ~/.bashrc
