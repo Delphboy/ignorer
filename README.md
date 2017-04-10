@@ -22,6 +22,8 @@ Run the setup script
 
 setup.sh creates a bashrc alias so you can run '$ ignorer' wherever you like
 
+*Now restart your terminal*
+
 ## Examples
 
 ```$ ignorer Go Ada```
